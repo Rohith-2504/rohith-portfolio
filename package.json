@@ -2,13 +2,36 @@
   "name": "rohith-portfolio",
   "private": true,
   "version": "2.0.0",
-  "description": "Next.js app in web/ — set Vercel Root Directory to web",
   "scripts": {
-    "dev": "npm run dev --prefix web",
-    "dev:web": "npm run dev --prefix web",
+    "dev": "next dev",
     "dev:api": "cd api && python -m uvicorn main:app --reload --port 8000",
-    "build": "npm run build --prefix web",
-    "start": "npm run start --prefix web",
-    "lint": "npm run lint --prefix web"
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "sync-images": "node scripts/sync-images.mjs"
+  },
+  "dependencies": {
+    "@types/react-syntax-highlighter": "^15.5.13",
+    "framer-motion": "^12.42.2",
+    "lenis": "^1.3.25",
+    "lucide-react": "^1.25.0",
+    "next": "16.2.10",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-icons": "^5.7.0",
+    "react-markdown": "^10.1.0",
+    "react-syntax-highlighter": "^16.1.1",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.10",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }
