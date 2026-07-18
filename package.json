@@ -2,6 +2,7 @@
   "name": "rohith-portfolio",
   "private": true,
   "version": "2.0.0",
+  "description": "Next.js app in web/ — set Vercel Root Directory to web",
   "scripts": {
     "dev": "npm run dev --prefix web",
     "dev:web": "npm run dev --prefix web",
