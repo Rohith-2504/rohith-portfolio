@@ -1,0 +1,8 @@
+{
+  "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS", "JavaScript", "HTML", "CSS"],
+  "backend": ["Node.js", "Express", "Python", "FastAPI", "REST APIs", "Laravel"],
+  "ai": ["LangChain", "RAG", "OpenAI API", "TensorFlow", "NLP", "Computer Vision", "FAISS", "ChromaDB"],
+  "database": ["MongoDB", "MySQL", "SQLite", "Supabase", "ChromaDB", "FAISS"],
+  "cloud": ["Vercel", "Docker", "GitHub Actions", "Hostinger"],
+  "tools": ["Git", "GitHub", "Figma", "Postman", "VS Code", "Jupyter"]
+}

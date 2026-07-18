@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" fill="none">
+  <rect width="640" height="400" fill="#140810"/>
+  <rect x="24" y="24" width="592" height="352" rx="16" fill="#1f0f18" stroke="#4a2038"/>
+  <rect x="48" y="60" width="250" height="250" rx="8" fill="#2a1520" opacity="0.6"/>
+  <rect x="342" y="60" width="250" height="250" rx="8" fill="#2a1520"/>
+  <rect x="48" y="60" width="250" height="250" rx="8" stroke="#6b7280" stroke-dasharray="8 6"/>
+  <text x="130" y="200" fill="#6b7280" font-family="sans-serif" font-size="12">Before</text>
+  <text x="430" y="200" fill="#f8f5ef" font-family="sans-serif" font-size="12">After</text>
+  <text x="48" y="368" fill="#a6adb8" font-family="sans-serif" font-size="14">Super-resolution · restoration CNN</text>
+</svg>

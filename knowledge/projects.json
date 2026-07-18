@@ -1,0 +1,56 @@
+[
+  {
+    "id": "vtu-habba",
+    "name": "VTU Habba 2026",
+    "category": "Full Stack",
+    "tags": ["fullstack", "frontend", "backend"],
+    "problem": "Fest operations scattered across spreadsheets and manual workflows.",
+    "solution": "Unified platform for registrations, schedules, and real-time event management.",
+    "stack": ["React", "Node.js", "MongoDB", "REST API"]
+  },
+  {
+    "id": "bliss-bites",
+    "name": "Bliss & Bites",
+    "category": "Full Stack",
+    "tags": ["fullstack", "frontend", "backend"],
+    "problem": "Restaurant needed seamless ordering and admin operations in one system.",
+    "solution": "Customer storefront, in-app admin, and production-ready API deployed via Gopafy.",
+    "stack": ["React", "Vite", "Node.js", "Tailwind CSS"]
+  },
+  {
+    "id": "rag-assistant",
+    "name": "RAG AI Assistant (ECHO)",
+    "category": "AI / ML",
+    "tags": ["ai", "backend"],
+    "problem": "Multimodal knowledge retrieval across text, image, audio, and video.",
+    "solution": "LangChain + FAISS pipeline with voice capabilities and FastAPI orchestration.",
+    "stack": ["Python", "LangChain", "FastAPI", "OpenAI", "FAISS"]
+  },
+  {
+    "id": "floor-plan",
+    "name": "Text to Floor Plan",
+    "category": "AI / Computer Vision",
+    "tags": ["ai", "backend"],
+    "problem": "Architectural layout ideation is slow and manual.",
+    "solution": "NLP-to-layout system generating structured 2D floor plans from natural language prompts.",
+    "stack": ["Python", "TensorFlow", "OpenCV", "NLP"]
+  },
+  {
+    "id": "image-restoration",
+    "name": "Image Restoration",
+    "category": "AI / Computer Vision",
+    "tags": ["ai"],
+    "problem": "Low-quality images limit downstream AI pipeline performance.",
+    "solution": "Deep learning super-resolution and restoration with optimized inference.",
+    "stack": ["Python", "TensorFlow", "OpenCV", "CNN"]
+  },
+  {
+    "id": "portfolio",
+    "name": "Portfolio Website (ROHITH.OS)",
+    "category": "Product Design",
+    "tags": ["frontend", "fullstack"],
+    "problem": "Traditional portfolios fail to communicate engineering depth.",
+    "solution": "Premium digital operating system experience with live GitHub data and RAG assistant.",
+    "stack": ["Next.js", "FastAPI", "Framer Motion", "Tailwind CSS", "ChromaDB"]
+  }
+]

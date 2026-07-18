@@ -1,13 +1,16 @@
-# Dependencies
-node_modules/
-
 # Build output
 dist/
+.next/
+out/
+
+# Dependencies
+node_modules/
 
 # Local env files
 .env
 .env.*
 !.env.example
+!**/.env.example
 
 # Logs
 *.log
@@ -21,3 +24,7 @@ Thumbs.db
 
 # Vite
 .vite/
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gopafy",
+    "period": "2025 — Present",
+    "title": "Developer Intern · Gopafy",
+    "summary": "Building production SaaS and client platforms including Bliss & Bites and Kirana NearU.",
+    "details": [
+      "Develops scalable React applications and REST APIs for real business clients.",
+      "Ships polished product experiences with performance and UX focus.",
+      "Works in Agile workflows with Git-based delivery."
+    ]
+  },
+  {
+    "id": "vtu-habba",
+    "period": "2025",
+    "title": "Full Stack Intern · VTU Habba",
+    "summary": "Built the official fest management platform end-to-end.",
+    "details": [
+      "Registrations, schedules, and event workflows.",
+      "API integration, testing, deployment, and version control."
+    ]
+  },
+  {
+    "id": "learnersbyte",
+    "period": "2024 — 2025",
+    "title": "Generative AI Intern · LearnersByte",
+    "summary": "Built LLM workflows and RAG prototypes.",
+    "details": [
+      "Agentic AI systems and automation pipelines in Python.",
+      "Prompt engineering and conversational AI orchestration."
+    ]
+  },
+  {
+    "id": "education",
+    "period": "2022 — Present",
+    "title": "B.E. Artificial Intelligence & Machine Learning",
+    "summary": "Acharya Institute of Technology, Bengaluru.",
+    "details": [
+      "Coursework: Deep Learning, NLP, Computer Vision, DSA, DBMS, Cloud."
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  { "title": "Generative AI with LLMs", "issuer": "DeepLearning.AI", "year": "2024" },
+  { "title": "Machine Learning Specialization", "issuer": "Coursera / Stanford", "year": "2023" },
+  { "title": "Python for Data Science", "issuer": "IBM", "year": "2023" },
+  { "title": "Deep Learning Specialization", "issuer": "DeepLearning.AI", "year": "2024" },
+  { "title": "MongoDB Node.js Developer", "issuer": "MongoDB University", "year": "2024" },
+  { "title": "React Developer", "issuer": "Meta", "year": "2023" },
+  { "title": "Git & GitHub Foundations", "issuer": "GitHub", "year": "2023" },
+  { "title": "Cloud Computing Essentials", "issuer": "AWS Educate", "year": "2023" }
+]

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" fill="none">
+  <rect width="640" height="400" fill="#120818"/>
+  <rect x="24" y="24" width="592" height="352" rx="16" fill="#1a1028" stroke="#3d2a55"/>
+  <rect x="48" y="48" width="120" height="12" rx="6" fill="#d93a2f" opacity="0.9"/>
+  <rect x="48" y="72" width="200" height="8" rx="4" fill="#6b7280"/>
+  <rect x="48" y="120" width="544" height="80" rx="10" fill="#221533"/>
+  <rect x="48" y="220" width="260" height="120" rx="10" fill="#221533"/>
+  <rect x="332" y="220" width="260" height="120" rx="10" fill="#221533"/>
+  <circle cx="560" cy="60" r="28" fill="#d93a2f" opacity="0.25"/>
+  <text x="48" y="360" fill="#a6adb8" font-family="sans-serif" font-size="14">Fest registrations · schedules · events</text>
+</svg>

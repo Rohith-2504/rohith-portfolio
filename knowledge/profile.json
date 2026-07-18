@@ -1,0 +1,29 @@
+{
+  "name": "Rohith Reddy B",
+  "short_name": "Rohith Reddy",
+  "role": ["AI Engineer", "Full Stack Developer"],
+  "company": "Gopafy",
+  "company_url": "https://gopafy.com",
+  "location": "Bengaluru, Karnataka, India",
+  "email": "rohithreddy.ai.dev@gmail.com",
+  "phone": "+91 7022347647",
+  "github": "https://github.com/Rohith-2504",
+  "linkedin": "https://linkedin.com/in/rohithreddy",
+  "availability": "Available for full-time roles",
+  "education": "Bachelor of Engineering in Artificial Intelligence and Machine Learning at Acharya Institute of Technology, Bengaluru. CGPA 7.0.",
+  "summary": "AI Engineer and Full Stack Developer who builds production AI products, RAG pipelines, FastAPI backends, and polished React experiences. Currently Developer Intern at Gopafy shipping SaaS for real businesses.",
+  "focus_areas": [
+    "AI Products",
+    "Full Stack Development",
+    "RAG Pipelines",
+    "FastAPI",
+    "React",
+    "Node.js",
+    "MongoDB",
+    "REST APIs",
+    "Computer Vision",
+    "Production AI Systems"
+  ],
+  "interests": ["Photography", "AI", "Software Engineering", "Music", "Technology"],
+  "values": ["Clarity", "Ownership", "Continuous learning", "Clean code", "Thoughtful UX"]
+}
